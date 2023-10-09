@@ -1,0 +1,16 @@
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\bin\Debug\net6.0-windows\SimpleCalculator2.exe
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\bin\Debug\net6.0-windows\SimpleCalculator2.deps.json
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\bin\Debug\net6.0-windows\SimpleCalculator2.runtimeconfig.json
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\bin\Debug\net6.0-windows\SimpleCalculator2.dll
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\bin\Debug\net6.0-windows\SimpleCalculator2.pdb
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.Form1.resources
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.csproj.GenerateResource.cache
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.AssemblyInfoInputs.cache
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.AssemblyInfo.cs
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.dll
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\refint\SimpleCalculator2.dll
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.pdb
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\SimpleCalculator2.genruntimeconfig.cache
+C:\Users\Jithesh.poojary\source\repos\SimpleCalculator2\SimpleCalculator2\obj\Debug\net6.0-windows\ref\SimpleCalculator2.dll
